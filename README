@@ -1,0 +1,1 @@
+If the player is away from the keyboard (AFK) for more than 60 seconds (by default) then he will be teleported to a world called 'Limbo'. This world is a peaceful, non-PVP world with a normal environment. If the player starts moving again, he will be teleported back to his previous position.

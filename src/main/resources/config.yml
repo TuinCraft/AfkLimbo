@@ -1,0 +1,4 @@
+limbo-world: world_limbo
+default-world: world
+afk-time: 60
+
